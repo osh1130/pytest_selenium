@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun May 28 08:42:24 CST 2023","Sun May 28 08:42:27 CST 2023","3574","testcase","test_search","","","","test_web_search[oppo find x6 pro-6]",""
+"failed","Sun May 28 08:42:13 CST 2023","Sun May 28 08:42:18 CST 2023","4675","testcase","test_search","","","","test_web_search[oppo find x5 pro-15]",""
+"failed","Sun May 28 08:42:18 CST 2023","Sun May 28 08:42:24 CST 2023","5847","testcase","test_search","","","","test_web_search[oppo find n2 flip-13]",""
